@@ -1,0 +1,2 @@
+INFO     py_test3:py_test3.py:9 ***УСПЕХ: код ответа - 200!***
+INFO     py_test3:py_test3.py:16 ***УСПЕХ: имя Janet найдено на странице!***
